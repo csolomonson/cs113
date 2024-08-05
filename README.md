@@ -9,4 +9,6 @@ I was inspired to make this project when I was playing Sudoku on my phone. I rea
 ## Note to the teacher
 I regrettably had a lot of progress for this project lost when the replit course was deleted. I didn’t realize that I had lost my project until this Sunday afternoon. I tried to get everything back to a working state, but with only a few hours, I wasn’t able to. I understand that I won’t get full credit for this project, since it isn’t working. I hope you can look at my code and see this project for what it was meant to be, and not what it currently is.  
 ## Wireframe
+https://github.com/csolomonson/cs113/blob/main/wireframe.drawio.png
 ## UML
+https://github.com/csolomonson/cs113/blob/main/UML%20class.png
